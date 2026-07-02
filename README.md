@@ -97,6 +97,7 @@ Four independent XGBoost binary classifiers predict, for each of the 48 competin
 
 ## Dashboard Pages
 
+![(FIFA World Cup 2026 - Analytics)](powerbi_pages/FIFA-World-Cup-2026-Analytics.pdf)
 1. **Prediction Dashboard** — championship probability rankings, predicted champion callout, top-10 contenders visualized
 2. **Team Deep-Dive** — interactive country selector driving goals/possession/squad-age comparisons and a live possession gauge
 3. **Player Leaderboard** — top scorers and assist leaders across the 2026 tournament
