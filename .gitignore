@@ -1,0 +1,40 @@
+# ==============================
+# Secrets & credentials
+# ==============================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.yaml
+credentials.json
+docker-compose.override.yml
+
+# ==============================
+# Python
+# ==============================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ==============================
+# Postgres / Docker
+# ==============================
+pgdata/
+*.sql.bak
+
+# ==============================
+# Power BI
+# ==============================
+*.pbix.bak
+~$*.pbix
+
+# ==============================
+# OS / Editor cruft
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
